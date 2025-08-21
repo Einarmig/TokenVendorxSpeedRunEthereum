@@ -130,7 +130,7 @@ This project demonstrates proficiency in:
 ## 🔗 Links & Deployment
 
 - [SpeedRunEthereum Challenge](https://speedrunethereum.com/)
-- [Live Demo](https://tokenvendor-7nqbu4p9i-einarmigs-projects.vercel.app)
+- [Live Demo](https://tokenvendor-mw3f4rgfj-einarmigs-projects.vercel.app)
 
 ### Contract Addresses
 - **YourToken Contract**: 0x628463e92033962aB74B98Af4F7376bAbD25005e
