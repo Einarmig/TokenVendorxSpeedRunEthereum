@@ -130,15 +130,15 @@ This project demonstrates proficiency in:
 ## 🔗 Links & Deployment
 
 - [SpeedRunEthereum Challenge](https://speedrunethereum.com/)
-- [Live Demo](#) (https://tokenvendor-7nqbu4p9i-einarmigs-projects.vercel.app)
+- [Live Demo] (https://tokenvendor-7nqbu4p9i-einarmigs-projects.vercel.app)
 
 ### Contract Addresses
 - **YourToken Contract**: 0x628463e92033962aB74B98Af4F7376bAbD25005e
 - **Vendor Contract**: 0xd0C161B67050d8b88A68DB7041FbE810933Ba57c
 
 ### Contract Verification
-- [YourToken Contract on Etherscan](#) (https://sepolia.etherscan.io/address/0x628463e92033962aB74B98Af4F7376bAbD25005e)
-- [Vendor Contract on Etherscan](#) (https://sepolia.etherscan.io/address/0xd0C161B67050d8b88A68DB7041FbE810933Ba57c)
+- [YourToken Contract on Etherscan] (https://sepolia.etherscan.io/address/0x628463e92033962aB74B98Af4F7376bAbD25005e)
+- [Vendor Contract on Etherscan] (https://sepolia.etherscan.io/address/0xd0C161B67050d8b88A68DB7041FbE810933Ba57c)
 
 ## 🏆 Challenge Completion
 
